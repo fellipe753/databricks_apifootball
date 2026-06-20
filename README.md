@@ -1,5 +1,5 @@
 # Projeto API Football no Databricks
-Projeto em andamento....
+Projeto sobre a Série A do campeonato brasileiro em andamento....
 
 O projeto consistem em:
 - Coleta de dados de uma API privada;
